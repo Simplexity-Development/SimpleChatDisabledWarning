@@ -1,0 +1,7 @@
+name: SimpleBucketMobs
+group: ADHDMC
+version: "${version}"
+main: adhdmc.simplechatdisabledwarning.SimpleChatDisabledWarning
+api-version: 1.19
+authors: [ Rhythmic, Peashooter101 ]
+description: Show a warning on login when a person's chat lacks a public key.
